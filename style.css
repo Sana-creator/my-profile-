@@ -1,0 +1,60 @@
+/* Colors and fonts */
+.img-circle {
+	border-radius: 50%;
+}
+
+body {
+	background: white;
+	color:#16A596;
+	font-family: Avenir;
+	font-weight: light;
+	font-size: 17px;
+}
+
+h1, h2 {
+	font-family: 'Anton', sans-serif;
+}
+
+h1 {
+	color:solid blue;
+	font-family:Futura;
+	font-size: 32px;
+	font-weight: 800;
+}
+
+h2 {
+	color: solid blue;
+	font-family: Futura;
+	font-size: 24px;
+	font font-weight: lighter;
+	font-weight: 500;
+}
+
+a {
+	font-family: 'Anton', sans-serif;
+	text text-decoration: none;
+	color: 0F00FF;
+	font-weight: bold;
+}
+
+a:hover {
+	color: 0F00FF;
+
+}
+
+div{
+	border: 3px solid light-grey;
+	border-radius: 20px;
+	box-shadow: 3px 10px 30px rgba (0,0,0,0,2);
+	padding: 30px;
+	margin: 20px;
+	background-color:#E4EFE7;
+	text-align: center;
+
+}
+.fab {
+	
+	font-size: 50px;
+
+
+}
